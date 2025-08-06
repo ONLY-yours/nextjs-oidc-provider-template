@@ -96,6 +96,9 @@
    Visit `http://localhost:3000/oauth/oidc`, you will see the error:  
    `Cannot read properties of undefined (reading 'length')`
 
+<img width="2000" height="1172" alt="image" src="https://github.com/user-attachments/assets/bbf10491-58ad-4f89-a12e-4c2b6585bf20" />
+
+
 4. **Start the project with Turbopack disabled**  
    Stop Turbopack and start the project again.  
    The error disappears.
@@ -199,6 +202,9 @@
    访问 `http://localhost:3000/oauth/oidc`，会看到报错：  
    `Cannot read properties of undefined (reading 'length')`
 
-4. **关闭 Turbopack 启动项目**  
+   <img width="2000" height="1172" alt="image" src="https://github.com/user-attachments/assets/bbf10491-58ad-4f89-a12e-4c2b6585bf20" />
+
+
+5. **关闭 Turbopack 启动项目**  
    关闭 Turbopack，重新启动项目。  
    报错消失。
